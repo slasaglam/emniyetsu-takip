@@ -1,0 +1,7 @@
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\bin\Debug\emniyet suç takip proje.exe.config
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\bin\Debug\emniyet suç takip proje.exe
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\bin\Debug\emniyet suç takip proje.pdb
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\obj\Debug\emniyet suç takip proje.csproj.AssemblyReference.cache
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\obj\Debug\emniyet suç takip proje.csproj.CoreCompileInputs.cache
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\obj\Debug\emniyet suç takip proje.exe
+C:\Users\monster\OneDrive\Masaüstü\sıla_23759051\emniyet suç takip proje\emniyet suç takip proje\obj\Debug\emniyet suç takip proje.pdb
